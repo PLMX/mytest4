@@ -2,6 +2,9 @@ package com.xz.pojo;
 
 public class User {
     /**
+     * A
+     */
+    /**
      * B
      */
     private String name;
